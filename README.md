@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br> 
     <a href="https://www.linkedin.com/in/thiago-aquino-931058a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/aquino_th" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.com/users/1011334378477080646" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://discord.com/users/386372675334963210" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 Currently, I am a Software Engineering student at [42 São Paulo](https://www.42sp.org.br/) 👨🏻‍💻 | Below are some technologies I have been developing my knowledge:
 <div style="display: inline_block"><br> 
