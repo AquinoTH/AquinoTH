@@ -7,7 +7,7 @@ Currently, I am a Software Engineering student at [42 São Paulo](https://www.42
 </div>
 
 ##
- Below are some technologies I have been developing my knowledge on:
+ Below are some technologies I have been developing my knowledge of:
 <div style="display: inline_block"><br> 
     <img align="center" alt="taquino_C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="taquino_Python" height="30" width="80" src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534">
@@ -22,7 +22,6 @@ Currently, I am a Software Engineering student at [42 São Paulo](https://www.42
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AquinoTH&show_icons=true&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquinoTH&layout=compact&theme=dracula">
 </div>
 
 
