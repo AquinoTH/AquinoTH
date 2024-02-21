@@ -1,4 +1,4 @@
-## Hi there, I'm Thiago Aquino! 
+## Hi there, I'm Thiago Aquino! 👋🏼
 Currently I am a Software Engineering student 👨🏻‍💻 | Below are some technologies I have been developing on:
 <div style="display: inline_block"><br> 
     <img align="center" alt="taquino_C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
